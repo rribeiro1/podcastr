@@ -1,6 +1,6 @@
 # Podcastr 
 
-Project created during the NWL #5 promoted by [@rocketseat](https://github.com/Rocketseat)
+Project created during the NLW #5 promoted by [@rocketseat](https://github.com/Rocketseat)
 
 ![Podcastr preview](.github/docs/app-preview.png)
 
