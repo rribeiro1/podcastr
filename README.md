@@ -20,7 +20,7 @@ Project created during the NLW #5 promoted by [@rocketseat](https://github.com/R
 Clone the project:
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/rribeiro1/podcastr.git && cd podcastr
 ```
 
 Install and run the application:
