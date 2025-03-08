@@ -1,0 +1,30 @@
+{
+  "episodes": [
+    {
+      "id": "1",
+      "title": "Test Podcast Episode 1",
+      "members": "John Doe",
+      "published_at": "2024-03-08T10:00:00.000Z",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+      "description": "Test episode description 1",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.mp3",
+        "type": "audio/mp3",
+        "duration": 3981
+      }
+    },
+    {
+      "id": "2",
+      "title": "Test Podcast Episode 2",
+      "members": "Jane Smith",
+      "published_at": "2024-03-07T10:00:00.000Z",
+      "thumbnail": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/opensource.jpg",
+      "description": "Test episode description 2",
+      "file": {
+        "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.mp3",
+        "type": "audio/mp3",
+        "duration": 2981
+      }
+    }
+  ]
+} 
