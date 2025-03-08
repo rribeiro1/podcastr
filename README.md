@@ -2,7 +2,9 @@
 
 A web application built to explore and demonstrate modern web development technologies such as React, Next.js, TypeScript, and the Web Audio API. The project implements a podcast streaming platform with features like audio playback control, playlist management, and a responsive user interface.
 
-![Podcastr preview](.github/docs/app-preview.png)
+<div align="center">
+  <img src=".github/docs/app-preview.png" alt="Podcastr preview" width="100%" />
+</div>
 
 ## Features
 
@@ -84,7 +86,3 @@ podcastr/
 3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
